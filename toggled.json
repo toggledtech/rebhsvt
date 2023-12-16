@@ -7,6 +7,18 @@
     "name": "About",
     "doc": "about"
   },
+   {
+    "name": "Contact",
+    "doc": "contact"
+  },
+   {
+    "name": "Support Us",
+    "doc": "support"
+  },
+   {
+    "name": "Join us",
+    "doc": "join"
+  },
   {
     "name": "Development",
     "doc": "README"
@@ -15,9 +27,9 @@
   "favicon": "Toggled.png",
   "action": {
     "URL": "//toggled.tech",
-    "text": "Try Toggled"
+    "text": "REBHST"
   },
-  "title": "Toggled Starter",
+  "title": "REBHST",
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
