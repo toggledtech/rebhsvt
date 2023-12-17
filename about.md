@@ -1,3 +1,3 @@
-# About Carbon
+# About Us
 
-Carbon was designed to make website development easy while having the most flexibility. That's why we chose markdown! If you have suggestions or want to help message me on Discord @lavacraftbedrock.
+We are a non-profit center for the study and support of building arts and the communities they foster.
