@@ -18,18 +18,14 @@
    {
     "name": "Join us",
     "doc": "join"
-  },
-  {
-    "name": "Development",
-    "doc": "README"
   }],
   "logo": "Toggled.png",
   "favicon": "Toggled.png",
   "action": {
     "URL": "//toggled.tech",
-    "text": "REBHST"
+    "text": "REBHSVT"
   },
-  "title": "REBHST",
+  "title": "REBHSVT",
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
